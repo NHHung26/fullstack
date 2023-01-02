@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "huyhung26082002",
-    "database": "shoppet",
+    "database": "petcare",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "logging": false
